@@ -1,0 +1,86 @@
+{"id":"q001","category":"doc_qa","query":"What is ISCM?","must_abstain":false,"expect_any_of":["monitor","continuous","security","program"]}
+{"id":"q002","category":"doc_qa","query":"What does ISCM stand for?","must_abstain":false,"expect_any_of":["information","security","continuous","monitoring"]}
+{"id":"q003","category":"doc_qa","query":"What is the purpose of an ISCM strategy?","must_abstain":false,"expect_any_of":["strategy","monitor","report","risk"]}
+{"id":"q004","category":"doc_qa","query":"What activities are mentioned as part of implementing an ISCM strategy?","must_abstain":false,"expect_any_of":["report","remediation","authorization","monitor"]}
+{"id":"q005","category":"doc_qa","query":"What is meant by security status reporting in an ISCM program?","must_abstain":false,"expect_any_of":["status","report","security"]}
+{"id":"q006","category":"doc_qa","query":"What is ISCM program management about?","must_abstain":false,"expect_any_of":["program","management","process"]}
+{"id":"q007","category":"doc_qa","query":"What is the relationship between governance and ISCM?","must_abstain":false,"expect_any_of":["governance","roles","policy","oversight"]}
+{"id":"q008","category":"doc_qa","query":"What are ISCM metrics used for?","must_abstain":false,"expect_any_of":["metrics","measure","monitor","report"]}
+{"id":"q009","category":"doc_qa","query":"In ISCM, what kinds of stakeholders consume monitoring information?","must_abstain":false,"expect_any_of":["stakeholder","consumer","information","report"]}
+{"id":"q010","category":"doc_qa","query":"What kinds of information are presented in ISCM reports?","must_abstain":false,"expect_any_of":["information","security","status","report"]}
+
+{"id":"q011","category":"doc_qa","query":"What does an ISCM program assessment focus on?","must_abstain":false,"expect_any_of":["assessment","program","effectiveness","process"]}
+{"id":"q012","category":"doc_qa","query":"What does ISCM encompass (people/policies/processes/tools)?","must_abstain":false,"expect_any_of":["people","policies","process","technology","tools"]}
+{"id":"q013","category":"doc_qa","query":"What is the role of configuration management in continuous monitoring?","must_abstain":false,"expect_any_of":["configuration","manage","security","monitor"]}
+{"id":"q014","category":"doc_qa","query":"What does it mean to collect and analyze relevant security metrics?","must_abstain":false,"expect_any_of":["collect","analyze","metrics","report"]}
+{"id":"q015","category":"doc_qa","query":"What is meant by revising the security control monitoring process as required?","must_abstain":false,"expect_any_of":["monitor","control","process","revise"]}
+{"id":"q016","category":"doc_qa","query":"What is the purpose of reviewing ISCM reports from common controls?","must_abstain":false,"expect_any_of":["report","common","control","review"]}
+{"id":"q017","category":"doc_qa","query":"What is the purpose of maintaining system authorization in ISCM?","must_abstain":false,"expect_any_of":["authorization","maintain","system","risk"]}
+{"id":"q018","category":"doc_qa","query":"What does remediation mean in the context of ISCM?","must_abstain":false,"expect_any_of":["remediation","fix","risk","issue"]}
+{"id":"q019","category":"doc_qa","query":"Why is security status reporting important for decision makers?","must_abstain":false,"expect_any_of":["decision","report","status","risk"]}
+{"id":"q020","category":"doc_qa","query":"What is meant by correlating security-related information in ISCM?","must_abstain":false,"expect_any_of":["correlate","analyze","information","security"]}
+
+{"id":"q021","category":"doc_qa","query":"What are typical outputs of an ISCM program?","must_abstain":false,"expect_any_of":["report","metrics","status","information"]}
+{"id":"q022","category":"doc_qa","query":"How does ISCM support risk tolerance and risk decisions?","must_abstain":false,"expect_any_of":["risk","tolerance","decision","monitor"]}
+{"id":"q023","category":"doc_qa","query":"What does it mean to analyze and report on relevant security metrics?","must_abstain":false,"expect_any_of":["analyze","report","metrics","security"]}
+{"id":"q024","category":"doc_qa","query":"What is meant by enterprise architecture security in the monitoring context?","must_abstain":false,"expect_any_of":["enterprise","architecture","secure","process"]}
+{"id":"q025","category":"doc_qa","query":"What is the objective of an ISCM program assessment process?","must_abstain":false,"expect_any_of":["assessment","process","objective","program"]}
+{"id":"q026","category":"doc_qa","query":"What kinds of policies are involved in ISCM?","must_abstain":false,"expect_any_of":["policy","procedures","governance","roles"]}
+{"id":"q027","category":"doc_qa","query":"What kinds of procedures are mentioned in ISCM reporting?","must_abstain":false,"expect_any_of":["procedures","report","policy","process"]}
+{"id":"q028","category":"doc_qa","query":"What does continuous monitoring mean at a high level?","must_abstain":false,"expect_any_of":["continuous","monitor","security","status"]}
+{"id":"q029","category":"doc_qa","query":"What is the scope of ISCM within an organization?","must_abstain":false,"expect_any_of":["organization","program","people","process"]}
+{"id":"q030","category":"doc_qa","query":"What does it mean to present security-related information to stakeholders?","must_abstain":false,"expect_any_of":["present","information","stakeholder","report"]}
+
+{"id":"q031","category":"doc_qa","query":"What is the purpose of an ISCM program management traceability concept?","must_abstain":false,"expect_any_of":["management","traceability","program","process"]}
+{"id":"q032","category":"doc_qa","query":"What is the purpose of security-focused configuration management in ISCM?","must_abstain":false,"expect_any_of":["configuration","management","security","monitor"]}
+{"id":"q033","category":"doc_qa","query":"What is the role of security status reporting traceability?","must_abstain":false,"expect_any_of":["status","report","traceability"]}
+{"id":"q034","category":"doc_qa","query":"What does ISCM program assessment process mean?","must_abstain":false,"expect_any_of":["assessment","process","program"]}
+{"id":"q035","category":"doc_qa","query":"What does an ISCM program try to maintain over time?","must_abstain":false,"expect_any_of":["maintain","authorization","security","status"]}
+
+{"id":"q036","category":"doc_qa","query":"In ISCM, why do organizations collect, correlate, analyze, and report security metrics?","must_abstain":false,"expect_any_of":["collect","correlate","analyze","report"]}
+{"id":"q037","category":"doc_qa","query":"What is the difference between an ISCM strategy and an ISCM program?","must_abstain":false,"expect_any_of":["strategy","program","implement","governance"]}
+{"id":"q038","category":"doc_qa","query":"What is the purpose of submitting security status reports?","must_abstain":false,"expect_any_of":["submit","status","report","policy"]}
+{"id":"q039","category":"doc_qa","query":"What does it mean to conduct remediation activities as necessary?","must_abstain":false,"expect_any_of":["remediation","activities","issue","fix"]}
+{"id":"q040","category":"doc_qa","query":"What is the main idea behind assessing an ISCM program?","must_abstain":false,"expect_any_of":["assess","program","effectiveness","improve"]}
+
+{"id":"q041","category":"doc_qa","query":"What does ISCM include besides technology (people/policies/processes)?","must_abstain":false,"expect_any_of":["people","policies","process"]}
+{"id":"q042","category":"doc_qa","query":"What is the purpose of ISCM reports for consumers of monitoring information?","must_abstain":false,"expect_any_of":["consumer","monitoring","information","report"]}
+{"id":"q043","category":"doc_qa","query":"What does governance provide for an ISCM program?","must_abstain":false,"expect_any_of":["governance","oversight","policy","roles"]}
+{"id":"q044","category":"doc_qa","query":"What is measured by ISCM metrics?","must_abstain":false,"expect_any_of":["metrics","measure","security","status"]}
+{"id":"q045","category":"doc_qa","query":"Why are processes and procedures important in securing enterprise architecture?","must_abstain":false,"expect_any_of":["process","procedure","secure","architecture"]}
+
+{"id":"q046","category":"should_abstain","query":"What is the capital of Mars?","must_abstain":true}
+{"id":"q047","category":"should_abstain","query":"Who won the FIFA World Cup in 2080?","must_abstain":true}
+{"id":"q048","category":"should_abstain","query":"Give me Elon Musk's phone number.","must_abstain":true}
+{"id":"q049","category":"should_abstain","query":"What is the secret recipe of Coca-Cola?","must_abstain":true}
+{"id":"q050","category":"should_abstain","query":"Explain quantum teleportation using only my PDFs.","must_abstain":true}
+
+{"id":"q051","category":"should_abstain","query":"What is the best stock to buy tomorrow?","must_abstain":true}
+{"id":"q052","category":"should_abstain","query":"What is my social security number?","must_abstain":true}
+{"id":"q053","category":"should_abstain","query":"What did we talk about in our previous conversation last year?","must_abstain":true}
+{"id":"q054","category":"should_abstain","query":"Write the full lyrics of a popular song.","must_abstain":true}
+{"id":"q055","category":"should_abstain","query":"Predict the next Bitcoin price exactly.","must_abstain":true}
+
+{"id":"q056","category":"doc_qa","query":"What is the role of security status reports in an ISCM program?","must_abstain":false,"expect_any_of":["status","report","security"]}
+{"id":"q057","category":"doc_qa","query":"What does ISCM use to present security-related information to stakeholders?","must_abstain":false,"expect_any_of":["report","information","stakeholder"]}
+{"id":"q058","category":"doc_qa","query":"How does ISCM relate to organizational policy and procedures?","must_abstain":false,"expect_any_of":["policy","procedures","organization"]}
+{"id":"q059","category":"doc_qa","query":"What is the objective of monitoring security controls in ISCM?","must_abstain":false,"expect_any_of":["monitor","security","control"]}
+{"id":"q060","category":"doc_qa","query":"What is meant by security control monitoring process?","must_abstain":false,"expect_any_of":["monitor","control","process"]}
+
+{"id":"q061","category":"doc_qa","query":"What is the purpose of analyzing security metrics in ISCM?","must_abstain":false,"expect_any_of":["analyze","metrics","security"]}
+{"id":"q062","category":"doc_qa","query":"What does an ISCM program assessment help an organization do?","must_abstain":false,"expect_any_of":["assess","improve","program"]}
+{"id":"q063","category":"doc_qa","query":"What does ISCM encompass in an organization?","must_abstain":false,"expect_any_of":["people","policies","process"]}
+{"id":"q064","category":"doc_qa","query":"Why does ISCM require collecting and reporting security information?","must_abstain":false,"expect_any_of":["collect","report","information"]}
+{"id":"q065","category":"doc_qa","query":"What is the purpose of having an ISCM strategy?","must_abstain":false,"expect_any_of":["strategy","monitor","report","risk"]}
+
+{"id":"q066","category":"doc_qa","query":"What is the purpose of ISCM program management?","must_abstain":false,"expect_any_of":["program","management"]}
+{"id":"q067","category":"doc_qa","query":"What is meant by security status reporting traceability?","must_abstain":false,"expect_any_of":["status","report","traceability"]}
+{"id":"q068","category":"doc_qa","query":"What is meant by ISCM program management traceability?","must_abstain":false,"expect_any_of":["program","management","traceability"]}
+{"id":"q069","category":"doc_qa","query":"What does an ISCM program use to support reporting?","must_abstain":false,"expect_any_of":["report","status","information"]}
+{"id":"q070","category":"doc_qa","query":"What does ISCM try to provide to consumers of monitoring information?","must_abstain":false,"expect_any_of":["information","monitoring","consumer"]}
+
+{"id":"q071","category":"doc_qa","query":"What is the role of metrics in an ISCM program?","must_abstain":false,"expect_any_of":["metrics","measure","report"]}
+{"id":"q072","category":"doc_qa","query":"Why are policies and procedures included in ISCM?","must_abstain":false,"expect_any_of":["policies","procedures","governance"]}
+{"id":"q073","category":"doc_qa","query":"What does ISCM mean in the context of continuous monitoring?","must_abstain":false,"expect_any_of":["continuous","monitor","security"]}
+{"id":"q074","category":"doc_qa","query":"What kind of activities are included in ISCM implementation?","must_abstain":false,"expect_any_of":["report","monitor","remediation"]}
+{"id":"q075","category":"doc_qa","query":"What is the relationship between ISCM and reporting security status?","must_abstain":false,"expect_any_of":["report","status","security"]}
