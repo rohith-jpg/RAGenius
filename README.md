@@ -1,4 +1,5 @@
-# Doc RAG Agent
+# RAGenius — AI‑Powered Document Q&A System (Custom RAG with Citations + Abstain)
+
 
 ## Results (latest eval)
 
